@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ravi Ranjan </h1>
-<h3 align="center">An Enthusiastic  iOS Developer. Eager to Know and Learn.</h3>
+<h2 align="center">An Enthusiastic  iOS Developer. Eager to Know and Learn 🌍 </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raviranjan069&label=Profile%20views&color=0e75b6&style=flat" alt="raviranjan069" /> </p>
+<br>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="left">About me 👨‍💻</h3>
 
 - 🔭 I’m currently working on **Cool iOS Projects -:)**
 
@@ -11,11 +11,38 @@
 
 - 👯 I’m looking to collaborate on **Open source iOS Projects. Any project You know. DM On LinkedIn -:)**
 
-- 💬 Ask me about **Swift, Machine learning, iOS App development.**
+- 💬 Ask me about **Swift, Machine learning, and iOS App development.**
 
 - 📫 How to reach me **raviranjandev048@gmail.com**
+  
+- 🙋‍♂️ Let's talk! Hit me up on [LinkedIn](https://www.linkedin.com/in/ravi-ranjan-rock/)
 
 - ⚡ Fun fact **I love coding -:)**
+
+<br/>
+
+> ### My mission is to provide powerful solutions through delightful high-quality software. 
+> (while having tons of fun 🧩)
+
+<br/>
+
+<h3 align="left">iOS Development 📱</h3>
+
+- 🔭<img width=15 src="https://user-images.githubusercontent.com/59176579/155759319-69ca0edf-36dd-4d9d-b7a8-1074b2112e29.png"/> Swift 5+, Objc-C & iOS 16+ Frameworks
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/158831428-918705d6-4bc3-4456-9e54-8cce2da587d7.png"/> UIKit, SwiftUI, GCD, CoreBluetooth & more
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759739-c594c55b-6f04-4feb-9278-bc82258ff89e.png"/> Unit, UI, Snapshot & Integration tests (XCTest)
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759812-84a076dd-06c4-4bde-b441-d8e16e8640bc.png"/> MVC, MVVM & More
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759817-9402e32f-adab-452b-a533-c35b18839202.png"/> C.I, C.D, Git flow
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/155760079-81550bf2-5aca-4d37-a0c2-6fa7f18f2444.png"/> Clean Code, SOLID, KISS, YAGNI and other principles
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759945-93cb9157-e2a3-4227-8b39-8dc387effe56.png"/> iOS Design Patterns
+
+<br/>
+
+## Main programming languages
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
